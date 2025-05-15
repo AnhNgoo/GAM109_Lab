@@ -1,0 +1,14 @@
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\bin\Debug\GAM109_Lab1.exe.config
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\bin\Debug\GAM109_Lab1.exe
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\bin\Debug\GAM109_Lab1.pdb
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.csproj.AssemblyReference.cache
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.csproj.CoreCompileInputs.cache
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.exe
+E:\STUDY\Learn_CSharp\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.pdb
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\bin\Debug\GAM109_Lab1.exe.config
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\bin\Debug\GAM109_Lab1.exe
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\bin\Debug\GAM109_Lab1.pdb
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.csproj.AssemblyReference.cache
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.csproj.CoreCompileInputs.cache
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.exe
+E:\STUDY\Learn_CSharp\GAM109_Lab\GAM109_Lab1\GAM109_Lab1\obj\Debug\GAM109_Lab1.pdb
