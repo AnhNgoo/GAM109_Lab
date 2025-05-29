@@ -1,0 +1,7 @@
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\bin\Debug\GAM109_Lab4.exe.config
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\bin\Debug\GAM109_Lab4.exe
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\bin\Debug\GAM109_Lab4.pdb
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\obj\Debug\GAM109_Lab4.csproj.AssemblyReference.cache
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\obj\Debug\GAM109_Lab4.csproj.CoreCompileInputs.cache
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\obj\Debug\GAM109_Lab4.exe
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab4\GAM109_Lab4\obj\Debug\GAM109_Lab4.pdb
