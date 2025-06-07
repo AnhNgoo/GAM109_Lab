@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|solutionrelative:gam109_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|e:\\fpt polytechnic\\gam109 - l\u1EADp tr\u00ECnh c# 2 unity\\gam109_lab\\gam109_lab3\\gam109_lab3\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\gam109_lab3\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|solutionrelative:gam109_lab3\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|e:\\fpt polytechnic\\gam109 - l\u1EADp tr\u00ECnh c# 2 unity\\gam109_lab\\gam109_lab3\\gam109_lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|solutionrelative:gam109_lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\gam109_lab3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|solutionrelative:gam109_lab3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|e:\\fpt polytechnic\\gam109 - l\u1EADp tr\u00ECnh c# 2 unity\\gam109_lab\\gam109_lab3\\gam109_lab3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|solutionrelative:gam109_lab3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\gam109_lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF7AF0-B68A-47E0-B767-92D5B946FDAB}|GAM109_Lab3\\GAM109_Lab3.csproj|solutionrelative:gam109_lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,36 +44,33 @@
               "RelativeDocumentMoniker": "GAM109_Lab3\\Bai3.cs",
               "ToolTip": "E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\GAM109_Lab3\\Bai3.cs",
               "RelativeToolTip": "GAM109_Lab3\\Bai3.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:55:55.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:55:55.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai2.cs",
               "DocumentMoniker": "E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\GAM109_Lab3\\Bai2.cs",
               "RelativeDocumentMoniker": "GAM109_Lab3\\Bai2.cs",
               "ToolTip": "E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\GAM109_Lab3\\Bai2.cs",
               "RelativeToolTip": "GAM109_Lab3\\Bai2.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:49:32.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:49:32.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Bai1.cs",
               "DocumentMoniker": "E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\GAM109_Lab3\\Bai1.cs",
               "RelativeDocumentMoniker": "GAM109_Lab3\\Bai1.cs",
               "ToolTip": "E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\GAM109_Lab3\\Bai1.cs",
               "RelativeToolTip": "GAM109_Lab3\\Bai1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:32:11.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:32:11.862Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "GAM109_Lab3\\Program.cs",
               "ToolTip": "E:\\FPT Polytechnic\\GAM109 - L\u1EADp Tr\u00ECnh C# 2 Unity\\GAM109_LAB\\GAM109_Lab3\\GAM109_Lab3\\Program.cs",
               "RelativeToolTip": "GAM109_Lab3\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T08:21:26.42Z",
               "EditorCaption": ""

@@ -34,7 +34,7 @@ namespace GAM109_Lab4
             Console.WriteLine("Danh sách user ban đầu:");
             foreach (var user in userList)
             {
-                Console.WriteLine(user);
+                Console.WriteLine($"Name: {user.Name}, Level: {user.Level}");
             }
 
             Console.WriteLine("\na/ Thông tin Name và Level (sử dụng Select):");
