@@ -1,0 +1,15 @@
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\bin\Debug\net8.0\GAM109_Lab8.exe
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\bin\Debug\net8.0\GAM109_Lab8.deps.json
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\bin\Debug\net8.0\GAM109_Lab8.runtimeconfig.json
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\bin\Debug\net8.0\GAM109_Lab8.dll
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\bin\Debug\net8.0\GAM109_Lab8.pdb
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.AssemblyInfoInputs.cache
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.AssemblyInfo.cs
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.csproj.CoreCompileInputs.cache
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.sourcelink.json
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.dll
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\refint\GAM109_Lab8.dll
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.pdb
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\GAM109_Lab8.genruntimeconfig.cache
+E:\FPT Polytechnic\GAM109 - Lập Trình C# 2 Unity\GAM109_LAB\GAM109_Lab8\GAM109_Lab8\obj\Debug\net8.0\ref\GAM109_Lab8.dll
